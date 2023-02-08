@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Press+Start+2P");
 @import url("https://fonts.googleapis.com/css?family=VT323");
-@import url("https //fonts.googleapis.com/css?family=montserrat");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 
 .App {
   text-align: center;
-  font-family: "montserrat-bold", "montserrat-bold";
+  font-family: "Montserrat", sans-serif;
   color: #fff;
 }
 
